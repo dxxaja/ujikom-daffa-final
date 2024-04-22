@@ -10,13 +10,10 @@ Untuk Fitur yang dibuat:
 - sign up
 - log in
 - log out
-- multiuser
 - add poto
 - add album
 - edit profile
 - add comment
-- edit comment
-- delete comment
 - like
 
 ## Tampilan Website
