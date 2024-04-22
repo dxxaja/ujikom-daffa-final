@@ -49,7 +49,7 @@ Untuk Fitur yang dibuat:
 ## Instalasi
 1. Clone Repository
 ```
-https://github.com/Kuro192/UKK_Gallery.git
+https://github.com/dxxaja/ujikom-daffa-final
 ```
 
 2. Install Composer
