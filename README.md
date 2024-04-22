@@ -69,7 +69,7 @@ copy .env.example .env
 4. Setting database di .env
 ```
 DB_PORT=3306
-DB_DATABASE=laravel_gallery
+DB_DATABASE=baru
 DB_USERNAME=root
 DB_PASSWORD=
 ```
